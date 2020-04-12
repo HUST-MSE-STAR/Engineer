@@ -1,0 +1,14 @@
+takebullet\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/stream_buffer.c
+takebullet\stream_buffer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+takebullet\stream_buffer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+takebullet\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+takebullet\stream_buffer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+takebullet\stream_buffer.o: ../Inc/FreeRTOSConfig.h
+takebullet\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+takebullet\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+takebullet\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+takebullet\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+takebullet\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+takebullet\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+takebullet\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+takebullet\stream_buffer.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/stream_buffer.h
