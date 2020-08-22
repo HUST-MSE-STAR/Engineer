@@ -17,7 +17,10 @@
     * @brief  将信息存入一个字符
     * @note   
     * @author 占建
-    * @param  None
+    * @param  int mode           模式
+							int up_finish      抬升标识位
+							int take_finish    取弹标识位
+							int rescue         救援标识位
     * @retval 
     */
 uint8_t deal_masge_put(int mode,int up_finish,int take_finish,int rescue)
@@ -56,7 +59,7 @@ uint8_t deal_masge_put(int mode,int up_finish,int take_finish,int rescue)
     * @brief  将信息取出
     * @note   
     * @author 占建
-    * @param  None
+    * @param  uint8_t masge  待处理信息
     * @retval 
     */
 void deal_masge_get(uint8_t masge)
